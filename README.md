@@ -1,6 +1,7 @@
 Project Jammming is React web app that enables users to search the spotify catalogue by Artist,
 name song or album then it returns the search results. In addition users can add songs in the results
 to a custom playlist which they can then save to their spotify account and play when they wish.
+Check out the deployed version here: http://odijamming.s3-website.us-east-2.amazonaws.com/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
